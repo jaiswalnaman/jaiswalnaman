@@ -21,9 +21,10 @@
 
 ---
 
-## $ whoami
+## 👤 whoami
 
 ```yaml
+# $ whoami
 name        : Naman Jaiswal
 role        : AI Engineer & Architect
 location    : Hyderabad, India 🇮🇳
@@ -115,12 +116,17 @@ impact      : 45–75% efficiency gains across automation workflows
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaiswalnaman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswalnaman&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaiswalnaman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswalnaman&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="160"/>
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaiswalnaman&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FF4500&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=jaiswalnaman&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FF4500&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jaiswalnaman&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
