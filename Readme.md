@@ -51,7 +51,6 @@ I specialize in turning complex business problems into autonomous AI workflows �
 
 ## Highlights
 
-🏅 **Telangana AI Rising Grand Challenge** — Shortlisted top Stage 3 from 500+ applicants for AI-powered Property Document Verification
 
 📄 **Published Research** — Cyberbullying Detection using ML, *IJRAR May 2023*
 
