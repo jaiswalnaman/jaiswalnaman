@@ -29,7 +29,7 @@ name        : Naman Jaiswal
 role        : AI Engineer & Architect
 location    : Hyderabad, India 🇮🇳
 company     : Spearsoft Techno Solutions Pvt. Ltd
-experience  : 1+ year in production AI systems
+experience  : 4+ year in production AI systems
 focus_areas :
   - Multi-Agent Orchestration
   - RAG Pipelines & Vector Architecture
