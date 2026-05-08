@@ -13,8 +13,8 @@
 <br/>
 
 <!-- Profile view counter & GitHub followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=namanjaiswal23&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=00D9FF)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namanjaiswal23)
+![Profile Views](https://komarev.com/ghpvc/?username=jaiswalnaman&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=00D9FF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaiswalnaman)
 [![Email](https://img.shields.io/badge/Email-Reach+Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naman.jaiswal23@gmail.com)
 
 </div>
@@ -115,12 +115,12 @@ impact      : 45–75% efficiency gains across automation workflows
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namanjaiswal23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanjaiswal23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaiswalnaman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswalnaman&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" height="160"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=namanjaiswal23&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FF4500&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaiswalnaman&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FF4500&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -163,6 +163,6 @@ current_research = [
 
 *"The best AI system is one that makes itself invisible — and the business outcome inevitable."*
 
-**— naman.jaiswal23@gmail.com · [linkedin.com/in/namanjaiswal23](https://linkedin.com/in/namanjaiswal23)**
+**— naman.jaiswal23@gmail.com · [linkedin.com/in/jaiswalnaman](https://linkedin.com/in/jaiswalnaman)**
 
 </div>
