@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm an **AI Engineer & Architect** with 1+ year of experience building production-grade AI systems for enterprises.
+I'm an **AI Engineer & Architect** with 4+ year of experience building production-grade AI systems for enterprises.
 
 I specialize in turning complex business problems into autonomous AI workflows — across PropTech, Healthcare, Finance, HRMS, and Compliance domains.
 
